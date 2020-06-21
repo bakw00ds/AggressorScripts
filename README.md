@@ -10,4 +10,5 @@ Collection of Cobalt Strike 3.0+ agressor scripts from multiple sources
 	* https://github.com/harleyQu1nn/AggressorScripts
 	* https://github.com/ramen0x3f/AggressorScripts
 	* https://github.com/Und3rf10w/Aggressor-scripts
+	* https://github.com/bluscreenofjeff/AggressorScripts
 
